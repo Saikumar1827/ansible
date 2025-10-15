@@ -6,7 +6,7 @@
     ansible.builtin.debug:
       msg: "Hello {{ item }}" # item is reserved
     loop:
-    - Ramesh
+    - sai
     - Suresh
-    - Raheem
-    - John
+    - vijay
+    - varma
